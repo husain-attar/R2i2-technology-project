@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Task</title>
+  <style>
+  .flex-container1{
+  background-color: mediumseagreen;
+  color:white;
+  margin:0px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius:5px;
+  }
+  .flex-container2{
+  background-color: darkgray;
+  color:white;
+  margin:0px;
+  padding: 10px;
+  font-size: 15px;
+  border-radius:5px;
+  }
+  .bot1
+  {
+  color: cornflowerblue;
+  }
+  .bot2
+  {
+  color: indianred;
+  }
+  .bot3
+  {
+  color: mediumseagreen;
+  }
+  .bot4
+  {
+  color:lightcoral;
+  }
+  .bot5
+  {
+  color:goldenrod;
+  }
+  .mag
+  {
+  margin-left:-25px;
+  }
+  .mag-girl
+  {
+  margin-left:100px;
+  margin-top:-20px;
+  }
+  .line 
+  {
+  border-left: 1px solid silver;
+  height: 50px;
+  margin-left:62px;
+  margin-bottom:-30px;
+}
+  .line1 
+  {
+  border-left: 1px solid silver;
+  height: 50px;
+  margin-left:87px;
+  margin-bottom:-10px;
+  margin-top:-25px;
+}
+  .line2 
+  {
+  border-left: 1px solid silver;
+  height: 100px;
+  margin-left:205px;
+  margin-bottom:-40px;
+  margin-top:-40px;
+}
+.line3 
+  {
+  border-left: 1px solid silver;
+  height: 25px;
+  margin-left:87px;
+  margin-bottom:-10px;
+  margin-top:-25px;
+}
+hr.new 
+{
+  width:420px;
+   margin-left:210px;
+   margin-top:-50px;
+}
+.bat1
+{
+ color:mediumslateblue;
+}
+.bat2
+{
+color:tomato;
+}
+.bat3
+{
+color:gold;
+}
+  </style>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+</head>
+<body> 
+
+<div class="container mt-3">
+  <h6>WED<p><font color="silver">Jul</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="flex-container1">30</span></p></h6>
+  <div class="line"></div>
+  <div class="d-flex flex-column mb-3 mag">
+  <br>
+    <div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-address-book bot1"></i>&nbsp;&nbsp;<font color="mediumaquamarine">New task assigned to you</font></p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+
+<div class="line1"></div>
+
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-circle-user bot2"></i>&nbsp;&nbsp;New feedback recieved for Task Name</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+<div class="line1"></div>
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-circle-check bot3"></i>&nbsp;&nbsp;Task marked completed by you</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+<div class="line1"></div>
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-desktop bot4"></i>&nbsp;&nbsp;Task Name updated for journey Journey Name</font></p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+<div class="line1"></div>
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-message bot5"></i>&nbsp;&nbsp;Follow up on feedback for Task Name completed on Date XX/YY/ZZZZ</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+
+  </div>
+ 
+ 
+</div>
+
+<div class="line2"></div>
+<hr class="new">
+
+
+<div class="container mt-3">
+  <h6>THU<p><font color="silver">Jul</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span class="flex-container2">29</span></p></h6>
+  <div class="line"></div>
+  <div class="d-flex flex-column mb-3 mag">
+  <br>
+    <div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<span class="iconify" data-icon="logos:google-meet"></span>&nbsp;&nbsp;Meeting with Bobby Charlie</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+
+<div class="line1"></div>
+
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-comment-dots bat1"></i>&nbsp;&nbsp;Chat about Design Mentorship</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+<div class="line1"></div>
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-circle-exclamation bat2"></i>&nbsp;&nbsp;Critical delay observed in time line adherence</p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+<div class="line1"></div>
+<div class="p-1"><p><font color="silver">11:30 AM</font>&nbsp;&nbsp;<i class="fa-solid fa-hourglass-empty bat3"></i>&nbsp;&nbsp;Finish project documentation for review(1-1 checkin)</font></p></div>
+    <div class="p-0  mag-girl"><img src="girl.png" height="20px" width="20px"><font color="silver"> Sheila O'Riley</font></div>
+ <div class="line3"></div>
+</div>
+</div>
+</body>
+</html>
